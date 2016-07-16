@@ -17,4 +17,7 @@ int problem6();
 int problem7();
 long problem8();
 int problem9();
+long problem10();
+int problem11();
+int problem12();
 #endif /* SOLUTIONS_H_ */

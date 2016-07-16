@@ -12,5 +12,5 @@ using namespace std;
 
 
 int main() {
-	cout << problem9();
+	cout << problem12();
 }
